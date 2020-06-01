@@ -1,2 +1,2 @@
 # ProAgilWebAPI
-trabalhando com Models, rotas e gerando jason no Postman
+trabalhando com Models, rotas e gerando json no Postman
